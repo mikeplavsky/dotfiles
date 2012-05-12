@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/ubuntu/review/GitQuest/BuildHunter/jobs/Ares-2k10-u2'
+let g:netrw_dirhist_2='/home/ubuntu/review/GitQuest/BuildHunter/jobs/Sun-2k10-u5'
+let g:netrw_dirhist_3='/etc/apt/sources.list.d'
+let g:netrw_dirhist_4='/home/ubuntu/.vim'
+let g:netrw_dirhist_5='/home/ubuntu/review'
+let g:netrw_dirhist_6='/'
+let g:netrw_dirhist_7='/home/ubuntu/review'
+let g:netrw_dirhist_8='/home/ubuntu/skunk/tests/queries'
