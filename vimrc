@@ -15,8 +15,8 @@ set nocompatible
 set showfulltag
 set showmode
 set expandtab
-set shiftwidth=2
-set softtabstop=2
+set shiftwidth=4
+set softtabstop=4
 set showcmd
 set incsearch
 set hlsearch
