@@ -1,7 +1,7 @@
 #!/bin/sh
 
-rm ~/.vimrc > /dev/null
-rm -rf ~/.vim > /dev/null 
+rm ~/.vimrc 2> /dev/null
+rm -rf ~/.vim 2> /dev/null 
 
 cp vimrc ~/.vimrc
 cp -r vim ~/.vim
